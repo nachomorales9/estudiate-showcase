@@ -5,7 +5,12 @@
 **Status:** Live · https://estudiate.vercel.app
 **Models:** Llama 3.3 70B · Llama 4 Scout (vision) · Whisper large v3 turbo (audio) · GPT-OSS 120B · Kimi K2, all served through Groq
 
-![Estúdiate](assets/cover.webp)
+![Estúdiate](assets/banner.svg)
+
+<p>
+  [![Live](https://img.shields.io/badge/live-demo-4fb8a1?style=flat-square&labelColor=0c0d0f)](https://estudiate.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+</p>
 
 ## What it is
 
