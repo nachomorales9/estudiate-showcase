@@ -1,16 +1,20 @@
+<div align="center">
+
+<img src="assets/cover.webp" width="100%" alt="Estúdiate">
+
 # Estúdiate
 
-> A study app where AI works on your notes: it summarizes them, quizzes you, reads photos of handwritten pages and transcribes recorded classes.
-
-**Status:** Live · https://estudiate.vercel.app
-**Models:** Llama 3.3 70B · Llama 4 Scout (vision) · Whisper large v3 turbo (audio) · GPT-OSS 120B · Kimi K2, all served through Groq
-
-![Estúdiate](assets/banner.svg)
+**A study app where AI works on your notes: it summarizes them, quizzes you, reads photos of handwritten pages and transcribes recorded classes.**
 
 <p>
-  [![Live](https://img.shields.io/badge/live-demo-4fb8a1?style=flat-square&labelColor=0c0d0f)](https://estudiate.vercel.app)
-  [![Portfolio](https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+  <img src="https://img.shields.io/badge/status-live-4fb8a1?style=flat-square&labelColor=0c0d0f" alt="Status: live">
+  <a href="https://estudiate.vercel.app"><img src="https://img.shields.io/badge/demo-open-4fb8a1?style=flat-square&labelColor=0c0d0f" alt="Live demo"></a>
+  <a href="https://ignaciomoralesdev.vercel.app"><img src="https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f" alt="Portfolio"></a>
 </p>
+
+<p><sub>Llama 3.3 70B · Llama 4 Scout (vision) · Whisper large v3 turbo (audio) · GPT-OSS 120B · Kimi K2 · served through Groq</sub></p>
+
+</div>
 
 ## What it is
 
